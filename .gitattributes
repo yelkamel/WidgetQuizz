@@ -1,5 +1,1 @@
-*.cs linguist-detectable=false
-*.js linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
-*.dart linguist-detectable=true
+* linguist-language=Dart
